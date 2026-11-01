@@ -1,0 +1,25 @@
+
+# API secrets
+.env
+.env.*
+
+# Python environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE settings
+.vscode/
+
+# Logs
+*.log
+
+# Collected datasets and raw API responses
+data/*.csv
+data/raw/
+
+# Generated outputs
+outputs/
